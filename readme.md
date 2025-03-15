@@ -35,7 +35,7 @@ Na pasta `inputs` está a imagem utilizada para extração do texto. Essa imagem
 
 ## 2.1 Resultado do OCR
 
-Na pasta `output`, o texto extraído utilizando o Microsoft Copilot do Edge (ou outra ferramenta OCR do Azure) foi salvo. O resultado obtido foi:
+Na pasta `output`, o texto extraído utilizando o Microsoft Copilot foi salvo. O resultado obtido foi:
 
 ```plaintext
 KATA
