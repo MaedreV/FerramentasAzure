@@ -1,3 +1,11 @@
+Este repositório reúne projetos práticos que demonstram a aplicação de ferramentas e conceitos da Azure para análise de dados com inteligência artificial.
+
+- **Análise de Sentimento:**  
+  Projeto que utiliza técnicas de processamento de linguagem natural para avaliar o sentimento de textos, mostrando tanto análises globais quanto por trechos. São apresentados os resultados e insights sobre como diferentes partes do texto podem influenciar a classificação final (positivo, negativo ou misto).
+
+- **Reconhecimento de Texto (OCR):**  
+  Projeto que realiza a extração de informações a partir de imagens.O OCR converte dados presentes em imagens em texto, permitindo a transformação desses dados em formatos estruturados para análises posteriores.
+
 # Análise de Sentimento
 
 ## 1. Sentença Original
